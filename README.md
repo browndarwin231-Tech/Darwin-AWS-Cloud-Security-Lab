@@ -62,25 +62,26 @@ Verified the successful deployment of the virtual machine.
 
 ## 3. Verified Running EC2 Instance
 
-Confirmed the instance was running and passed AWS status checks.
+Confirmed the EC2 instance was running and passed AWS status checks.
 
-![Running EC2 Instance](screenshots/03-ec2-running-instances.png)
+![Running EC2 Instance](screenshots/03-running-ec2-instance.png)
 
 ---
 
 ## 4. Configured Security Group
 
-Created and reviewed inbound SSH firewall rules to securely control access.
+Created and reviewed inbound SSH security group rules to control access to the EC2 instance.
 
-![Security Group](screenshots/04-security-group.png)
+![Security Group Rules](screenshots/04-security-group-rules.png)
 
 ---
 
 ## 5. IAM Dashboard
 
-Reviewed AWS Identity and Access Management resources and security recommendations.
+Reviewed the AWS Identity and Access Management (IAM) Dashboard, including security recommendations and account resources.
 
 ![IAM Dashboard](screenshots/05-iam-dashboard.png)
+
 
 ---
 
